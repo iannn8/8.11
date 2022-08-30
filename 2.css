@@ -222,4 +222,7 @@ color: white;
     position: absolute ;
     left: 255px;
   }
+    .up img{
+        position:fixed;
+        right:50px
 }
